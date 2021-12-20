@@ -7,3 +7,7 @@ To initialize UI part of the project
 3) npm run build:dev
 
 Start up project in the solition - <b>Expenses</b>
+
+
+Explanation URL:
+  https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
